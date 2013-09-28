@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>App42 Sample Java-Mongo Application</title>
+<title>App42 Sample Java-Couch Application</title>
 <link href="css/style-User-Input-Form.css" rel="stylesheet"
 	type="text/css">
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>
